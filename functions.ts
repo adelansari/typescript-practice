@@ -13,7 +13,7 @@ function addAndHandle(n1:number, n2: number, cb: (num:number) => void) {
 }
 
 
-printResult(add(5,12));  // will print 17 by passing the values to the previous console log
+// printResult(add(5,12));  // will print 17 by passing the values to the previous console log
 
 
 let combineValues: (a: number, b:number) => number;
