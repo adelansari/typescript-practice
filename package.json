@@ -1,0 +1,23 @@
+{
+  "name": "academind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelansari/typescript-practice.git"
+  },
+  "author": "Adel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adelansari/typescript-practice/issues"
+  },
+  "homepage": "https://github.com/adelansari/typescript-practice#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
